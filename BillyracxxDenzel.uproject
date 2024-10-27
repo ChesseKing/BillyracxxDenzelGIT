@@ -18,6 +18,10 @@
 		{
 			"Name": "NNEDenoiser",
 			"Enabled": true
+		},
+		{
+			"Name": "NaniteDisplacedMesh",
+			"Enabled": true
 		}
 	]
 }
